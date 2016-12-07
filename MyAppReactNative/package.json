@@ -1,0 +1,20 @@
+{
+  "name": "rntest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "pwx",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-native": "^0.39.0"
+  }
+}
